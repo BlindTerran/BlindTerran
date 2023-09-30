@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, my name is Tim 👋
+- 🌱 I’m currently doing a computing degree majoring in software development
 
+### My LinkedIn profile
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="hongting-su-0a0486233" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/hongting-su-0a0486233?trk=profile-badge">Hongting SU</a></div>
+              
 <!--
 **BlindTerran/BlindTerran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
