@@ -1,6 +1,3 @@
-### Hi there, my name is Tim 👋
-- 🌱 I’m currently doing a computing degree majoring in software development
-
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hongting-su-0a0486233/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
